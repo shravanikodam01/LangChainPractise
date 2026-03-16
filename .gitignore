@@ -1,0 +1,81 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+eggs/
+*.egg-info/
+*.egg
+*.whl
+.venv/
+venv/
+ENV/
+env/
+venv.bak/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Pyre / mypy
+.mypy_cache/
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Editor backups
+*~
+*.swp
+
+# Local directories
+__MACOSX/
+
+# Data, models, outputs
+data/
+outputs/
+models/
+checkpoints/
+
+# Hugging Face / transformers cache
+transformers_cache/
+hf_cache/
+cache/
+tokenizers/
+
+# Distribution metadata
+.pip-wheel-metadata/
+
+# Ignore wheel and egg build artifacts
+*.egg-info/

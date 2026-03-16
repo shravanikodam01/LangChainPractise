@@ -1,0 +1,2 @@
+Langchain concept Runnable is quite hard to understand.
+Once we understand this concept, it makes our life easy.
