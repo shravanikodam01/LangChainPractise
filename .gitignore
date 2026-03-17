@@ -79,3 +79,7 @@ tokenizers/
 
 # Ignore wheel and egg build artifacts
 *.egg-info/
+
+
+#Ignore pdf
+*.pdf
