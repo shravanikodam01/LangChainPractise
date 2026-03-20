@@ -30,3 +30,8 @@ torchvision
 torchaudio
 
 pydantic
+youtube-transcript-api
+streamlit
+streamlit-chat
+langchain-text-splitters
+
