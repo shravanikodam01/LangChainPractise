@@ -34,6 +34,5 @@ youtube-transcript-api
 streamlit
 streamlit-chat
 langchain-text-splitters
-youtubeSummary
 langchain-community
 faiss-cpu
